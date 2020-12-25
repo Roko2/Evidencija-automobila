@@ -1,0 +1,179 @@
+﻿15.12.2019. 20:57:48 - pokretanje programa
+15.12.2019. 20:58:04 - pokretanje programa
+15.12.2019. 20:58:16 - pokretanje programa
+15.12.2019. 20:58:28 - pokretanje programa
+15.12.2019. 21:03:26 - pokretanje programa
+15.12.2019. 21:04:32 - prijava korisnika: Student
+15.12.2019. 21:05:25 - pokretanje programa
+15.12.2019. 21:05:31 - pokretanje programa
+15.12.2019. 21:06:11 - pokretanje programa
+15.12.2019. 21:06:19 - prijava korisnika: Student
+15.12.2019. 21:08:58 - pokretanje programa
+15.12.2019. 21:09:24 - pokretanje programa
+15.12.2019. 21:09:33 - prijava korisnika: Student
+15.12.2019. 21:13:13 - pokretanje programa
+15.12.2019. 21:14:30 - pokretanje programa
+15.12.2019. 21:15:47 - pokretanje programa
+15.12.2019. 21:15:55 - pokretanje programa
+15.12.2019. 21:19:00 - pokretanje programa
+15.12.2019. 21:19:40 - pokretanje programa
+15.12.2019. 21:19:46 - prijava korisnika: Student
+15.12.2019. 21:21:21 - pokretanje programa
+15.12.2019. 21:24:48 - pokretanje programa
+15.12.2019. 21:24:58 - pokretanje programa
+15.12.2019. 21:28:01 - pokretanje programa
+15.12.2019. 21:28:09 - pokretanje programa
+15.12.2019. 21:28:38 - pokretanje programa
+15.12.2019. 21:29:58 - pokretanje programa
+15.12.2019. 21:32:22 - pokretanje programa
+15.12.2019. 21:33:09 - pokretanje programa
+15.12.2019. 21:33:21 - pokretanje programa
+15.12.2019. 21:34:02 - pokretanje programa
+15.12.2019. 21:35:47 - pokretanje programa
+15.12.2019. 21:36:12 - pokretanje programa
+15.12.2019. 21:36:23 - pokretanje programa
+15.12.2019. 21:36:42 - pokretanje programa
+15.12.2019. 21:39:03 - pokretanje programa
+15.12.2019. 21:39:15 - pokretanje programa
+15.12.2019. 21:39:34 - pokretanje programa
+15.12.2019. 21:39:45 - pokretanje programa
+15.12.2019. 21:39:52 - pokretanje programa
+15.12.2019. 21:40:06 - pokretanje programa
+15.12.2019. 21:40:49 - pokretanje programa
+15.12.2019. 21:41:06 - pokretanje programa
+15.12.2019. 21:41:15 - pokretanje programa
+15.12.2019. 21:42:17 - pokretanje programa
+15.12.2019. 21:42:22 - prijava korisnika: Student
+15.12.2019. 21:43:32 - pokretanje programa
+15.12.2019. 21:43:45 - pokretanje programa
+15.12.2019. 21:43:55 - prijava korisnika: Student
+15.12.2019. 21:45:14 - pokretanje programa
+15.12.2019. 21:46:33 - pokretanje programa
+15.12.2019. 21:47:27 - pokretanje programa
+15.12.2019. 21:48:46 - pokretanje programa
+15.12.2019. 21:50:42 - pokretanje programa
+15.12.2019. 21:51:42 - pokretanje programa
+15.12.2019. 21:55:09 - pokretanje programa
+15.12.2019. 21:55:27 - pokretanje programa
+15.12.2019. 22:21:25 - pokretanje programa
+15.12.2019. 22:23:43 - pokretanje programa
+15.12.2019. 22:24:10 - pokretanje programa
+15.12.2019. 22:45:25 - pokretanje programa
+15.12.2019. 22:45:34 - prijava korisnika: Student
+15.12.2019. 22:46:38 - pokretanje programa
+15.12.2019. 22:46:44 - prijava korisnika: Student
+15.12.2019. 22:49:03 - pokretanje programa
+15.12.2019. 22:49:12 - prijava korisnika: Student
+15.12.2019. 22:51:45 - pokretanje programa
+15.12.2019. 22:51:54 - prijava korisnika: Student
+15.12.2019. 22:52:03 - pokretanje programa
+15.12.2019. 22:52:57 - prijava korisnika: Student
+15.12.2019. 22:54:32 - pokretanje programa
+15.12.2019. 22:54:42 - prijava korisnika: Student
+15.12.2019. 22:56:55 - pokretanje programa
+15.12.2019. 22:57:03 - prijava korisnika: Student
+15.12.2019. 22:57:34 - pokretanje programa
+15.12.2019. 22:58:06 - prijava korisnika: Student
+15.12.2019. 23:01:36 - pokretanje programa
+15.12.2019. 23:01:42 - prijava korisnika: Student
+15.12.2019. 23:06:48 - pokretanje programa
+15.12.2019. 23:06:54 - prijava korisnika: Student
+15.12.2019. 23:07:39 - pokretanje programa
+15.12.2019. 23:07:49 - prijava korisnika: Student
+15.12.2019. 23:10:35 - pokretanje programa
+15.12.2019. 23:11:00 - prijava korisnika: Student
+15.12.2019. 23:11:32 - pokretanje programa
+15.12.2019. 23:11:38 - prijava korisnika: Student
+15.12.2019. 23:12:48 - pokretanje programa
+15.12.2019. 23:12:54 - prijava korisnika: Student
+21.12.2019. 16:18:56 - pokretanje programa
+21.12.2019. 16:19:12 - prijava korisnika: Student
+21.12.2019. 16:23:04 - pokretanje programa
+21.12.2019. 16:23:09 - prijava korisnika: Student
+21.12.2019. 16:23:49 - pokretanje programa
+21.12.2019. 16:24:14 - prijava korisnika: Student
+21.12.2019. 16:37:51 - pokretanje programa
+21.12.2019. 16:37:58 - prijava korisnika: Student
+21.12.2019. 16:39:35 - pokretanje programa
+21.12.2019. 16:39:41 - prijava korisnika: Student
+21.12.2019. 16:41:10 - pokretanje programa
+21.12.2019. 16:41:15 - prijava korisnika: Student
+21.12.2019. 16:42:40 - pokretanje programa
+21.12.2019. 16:42:46 - prijava korisnika: Student
+21.12.2019. 16:43:16 - pokretanje programa
+21.12.2019. 16:43:35 - prijava korisnika: Student
+21.12.2019. 17:03:44 - pokretanje programa
+21.12.2019. 17:03:50 - prijava korisnika: Student
+28.12.2019. 14:56:34 - pokretanje programa
+28.12.2019. 14:56:42 - prijava korisnika: Student
+28.12.2019. 14:57:24 - pokretanje programa
+28.12.2019. 14:57:34 - prijava korisnika: Student
+28.12.2019. 17:20:30 - pokretanje programa
+28.12.2019. 17:20:36 - prijava korisnika: Student
+28.12.2019. 17:25:24 - pokretanje programa
+28.12.2019. 17:25:28 - prijava korisnika: Student
+1/7/2020 11:48:12 PM - pokretanje programa
+1/7/2020 11:48:22 PM - prijava korisnika: Student
+1/7/2020 11:49:54 PM - pokretanje programa
+1/7/2020 11:50:03 PM - prijava korisnika: Student
+1/7/2020 11:52:15 PM - pokretanje programa
+1/7/2020 11:52:23 PM - prijava korisnika: Student
+1/7/2020 11:53:17 PM - pokretanje programa
+1/7/2020 11:53:24 PM - prijava korisnika: Student
+1/7/2020 11:54:09 PM - pokretanje programa
+1/7/2020 11:54:14 PM - prijava korisnika: Student
+1/7/2020 11:55:12 PM - pokretanje programa
+1/7/2020 11:55:19 PM - prijava korisnika: Student
+1/7/2020 11:55:44 PM - pokretanje programa
+1/7/2020 11:55:52 PM - prijava korisnika: Student
+1/7/2020 11:56:19 PM - pokretanje programa
+1/7/2020 11:56:26 PM - prijava korisnika: Student
+1/7/2020 11:58:36 PM - pokretanje programa
+1/7/2020 11:58:43 PM - prijava korisnika: Student
+1/7/2020 11:59:58 PM - pokretanje programa
+1/8/2020 12:00:05 AM - prijava korisnika: Student
+1/8/2020 12:00:30 AM - pokretanje programa
+1/8/2020 12:00:43 AM - pokretanje programa
+1/8/2020 12:00:51 AM - prijava korisnika: Student
+1/8/2020 12:02:08 AM - pokretanje programa
+1/8/2020 12:02:14 AM - prijava korisnika: Student
+1/8/2020 12:23:30 AM - pokretanje programa
+1/8/2020 12:24:00 AM - prijava korisnika: Student1
+1/8/2020 12:24:07 AM - pokretanje programa
+1/8/2020 12:24:26 AM - prijava korisnika: Student2
+1/8/2020 12:24:46 AM - pokretanje programa
+1/8/2020 12:24:56 AM - prijava korisnika: student1234
+1/8/2020 12:30:43 AM - pokretanje programa
+1/8/2020 12:31:00 AM - prijava korisnika: Student1
+10.1.2020. 19:12:55 - pokretanje programa
+10.1.2020. 19:13:08 - prijava korisnika: Student2
+10.1.2020. 19:15:39 - pokretanje programa
+10.1.2020. 19:15:50 - prijava korisnika: Student1
+10.1.2020. 20:32:04 - pokretanje programa
+10.1.2020. 20:32:13 - prijava korisnika: Student1
+10.1.2020. 20:34:06 - pokretanje programa
+10.1.2020. 20:34:11 - prijava korisnika: Student1
+10.1.2020. 20:41:01 - pokretanje programa
+10.1.2020. 20:41:10 - prijava korisnika: Student1
+10.1.2020. 20:43:54 - pokretanje programa
+10.1.2020. 20:44:03 - prijava korisnika: Student2
+10.1.2020. 20:45:41 - pokretanje programa
+10.1.2020. 20:45:57 - prijava korisnika: Student1
+10.1.2020. 20:47:21 - pokretanje programa
+10.1.2020. 20:47:33 - prijava korisnika: Student1
+10.1.2020. 20:48:43 - pokretanje programa
+10.1.2020. 20:48:48 - prijava korisnika: Student1
+10.1.2020. 20:55:10 - pokretanje programa
+10.1.2020. 20:55:23 - prijava korisnika: Student1
+10.1.2020. 21:05:42 - pokretanje programa
+10.1.2020. 21:05:49 - prijava korisnika: Student1
+10.1.2020. 21:11:39 - pokretanje programa
+10.1.2020. 21:11:47 - prijava korisnika: Student1
+10.1.2020. 21:22:27 - pokretanje programa
+10.1.2020. 21:22:42 - prijava korisnika: Student1
+10.1.2020. 21:25:33 - pokretanje programa
+10.1.2020. 21:25:42 - prijava korisnika: Student1
+11.1.2020. 18:48:00 - pokretanje programa
+11.1.2020. 18:48:06 - prijava korisnika: Student1
+11.1.2020. 18:51:24 - pokretanje programa
+11.1.2020. 18:51:29 - prijava korisnika: Student1

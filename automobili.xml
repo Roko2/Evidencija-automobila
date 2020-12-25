@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <automobil id="1234" Rbr="1" Marka="Renault" Model="Megane" Motor="Benzin" Snaga="115" KM="150000" Godina="2015" Registracija="15/5/2016"></automobil>
+  <automobil id="2345" Rbr="2" Marka="Citroen" Model="C3" Motor="Dizel" Snaga="180" KM="120000" Godina="2017" Registracija="18/2/2018">
+  </automobil>
+  <automobil id="3456" Rbr="3" Marka="Honda" Model="Civic" Motor="Dizel" Snaga="100" KM="100000" Godina="2010" Registracija="4/10/2010">
+  </automobil>
+  <automobil id="4567" Rbr="4" Marka="BMW" Model="116d" Motor="Plin" Snaga="210" KM="210000" Godina="2018" Registracija="8/9/2018">
+  </automobil>
+  <automobil id="5678" Rbr="5" Marka="Fiat" Model="500" Motor="Benzin" Snaga="80" KM="350000" Godina="2006" Registracija="6/2/2019">
+  </automobil>
+  <automobil id="6789" Rbr="6" Marka="Mercedes-Benz" Model="C-220" Motor="Elektro" Snaga="250" KM="135000" Godina="2018" Registracija="10/12/2019">
+  </automobil>
+  <automobil id="7891" Rbr="7" Marka="Dacia" Model="Logan" Motor="Dizel" Snaga="165" KM="190000" Godina="2016" Registracija="5/9/2016">
+  </automobil>
+  <automobil id="8234" Rbr="8" Marka="Ford" Model="C-Max" Motor="Benzin" Snaga="145" KM="225000" Godina="2013" Registracija="11/2/2014">
+  </automobil>
+  <automobil id="9456" Rbr="9" Marka="Opel" Model="Crossland" Motor="Benzin" Snaga="120" KM="270000" Godina="2012" Registracija="7/4/2015">
+  </automobil>
+  <automobil id="1067" Rbr="10" Marka="Toyota" Model="YARIS" Motor="Plin" Snaga="160" KM="142000" Godina="2010" Registracija="3/2/2012">
+  </automobil>
+  <automobil id="1178" Rbr="11" Marka="Volvo" Model="XC60" Motor="Plin" Snaga="250" KM="189000" Godina="2017" Registracija="3/3/2018">
+  </automobil>
+  <automobil id="1289" Rbr="12" Marka="Toyota" Model="AYGO" Motor="Elektro" Snaga="123" KM="247000" Godina="2009" Registracija="6/8/2011">
+  </automobil>
+  <automobil id="1390" Rbr="13" Marka="Hyundai" Model="i30" Motor="Dizel" Snaga="130" KM="166000" Godina="2013" Registracija="9/6/2014">
+  </automobil>
+  <automobil id="1412" Rbr="14" Marka="BMW" Model="420d" Motor="Plin" Snaga="220" KM="80000" Godina="2019" Registracija="11/2/2020">
+  </automobil>
+  <automobil id="1523" Rbr="15" Marka="Volvo" Model="V60" Motor="Dizel" Snaga="127" KM="280000" Godina="2019" Registracija="6/7/2020">
+  </automobil>
+  <automobil id="1634" Rbr="16" Marka="KIA" Model="Carens" Motor="Benzin" Snaga="310" KM="113000" Godina="2011" Registracija="3/2/2012">
+  </automobil>
+  <automobil id="1745" Rbr="17" Marka="Jeep" Model="Renagade" Motor="Benzin" Snaga="270" KM="45000" Godina="2018" Registracija="1/1/2019">
+  </automobil>
+  <automobil id="1856" Rbr="18" Marka="Mazda" Model="CX-5" Motor="Elektro" Snaga="115" KM="280000" Godina="2012" Registracija="5/10/2013">
+  </automobil>
+  <automobil id="1967" Rbr="19" Marka="KIA" Model="Optima" Motor="Plin" Snaga="180" KM="179000" Godina="2009" Registracija="13/2/2010">
+  </automobil>
+  <automobil id="2078" Rbr="20" Marka="Mercedes-Benz" Model="A-180" Motor="Dizel" Snaga="162" KM="290000" Godina="2011" Registracija="28/8/2012">
+  </automobil>
+</data>
